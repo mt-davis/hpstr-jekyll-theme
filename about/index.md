@@ -1,32 +1,35 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Me
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: abstract-12.jpg
+  credit: 
+  creditlink: 
 comments: false
 modified: 2016-02-01
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+<p> As a child I enjoyed taking things apart to understand how they worked. As you can imagine, that drove my mother crazy.</p>
+          
+<p> For the last 15 years, I've worked for Fortune 500 companies, start-ups and non-profits doing networking and IT managment.</p>
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+<p>Today, I focus on building Ruby on Rails and AngularJs apps and learning other frameworks.</p>
+<hr>
+>“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live” 
+            ― John Woods
+            
+## Skills
+I've used RoR to make most if not all of my web applications. I use Heroku or my own private Linux server to host my apps.
+          For my web-based apps, I used AnguarJs, EmberJs, HTML, (Bootstrap), CSS MeteorJs (learning) and number of SQL variants including MySQL, MsSQL, PostgreSQL. 
+          However, I wouldn't call myslef a DBA.
+         
+I'm a major supportor of AWS <a href="http://aws.amazon.com/" target="_blank">(Amazon Web Services).</a> Great solutions for startup's and non-profit organzations. Check them out if you haven't.</p>
 
-## HPSTR Features:
+I've setup and impliemented both Windows and Linux environments for the last 15 years. I also do a little bit of DevOps.
+<hr>
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+## A Few Coding Projects:
+* [Yelp Like App (Written using RoR and Bootstrap)](http://yelpdemo-md.herokuapp.com)
+* [App using the Google Maps API to map out addresses](http://google-mapper-md.herokuapp.com)
+* [Frontend Social Network App (Bootstrap)](https://s3.amazonaws.com/social-media-demo/index.html)
+* [Frontend Photo App (Bootstrap)](https://s3.amazonaws.com/gamma-sample/index.html)
