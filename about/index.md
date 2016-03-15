@@ -23,7 +23,7 @@ I've used RoR to make most if not all of my web applications. I use Heroku or my
           For my web-based apps, I used AnguarJs, EmberJs, HTML, (Bootstrap), CSS MeteorJs (learning) and number of SQL variants including MySQL, MsSQL, PostgreSQL. 
           However, I wouldn't call myslef a DBA.
          
-I'm a major supportor of AWS <a href="http://aws.amazon.com/" target="_blank">(Amazon Web Services).</a> Great solutions for startup's and non-profit organzations. Check them out if you haven't.</p>
+I'm a major supportor of AWS <a href="http://aws.amazon.com/" target="_blank">(Amazon Web Services).</a> Great solutions for startup's and non-profit organzations. Check them out if you haven't.
 
 I've setup and impliemented both Windows and Linux environments for the last 15 years. I also do a little bit of DevOps.
 <hr>
