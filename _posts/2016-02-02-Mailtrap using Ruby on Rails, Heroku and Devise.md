@@ -9,11 +9,9 @@ image:
   background: witewall_3.png
 ---
 
-Mailtrap using Ruby on Rails, Heroku and Devise. 
+In this tutorial, we'll be using Mailtrap to impliement the password reset feature in the Devise gem. Mailtrap allows developers to create a fake SMTP server for pre-production testing of an applications email functionality without the risk of spamming actually users or customers. 
 
-In this tutorial, we'll be using Mailtrap to impliement the password reset feature in the Devise gem.
-
-Mailtrap allows developers to create a fake SMTP server for pre-production testing of an applications email functionality without the risk of spamming actually users or customers. We will be using Heroku to run Mailtrap for this tutorial because of the easy implementation of the Mailtrap service. However, keep in mind this will be for a development environment even thou we are using Heroku.
+We will be using Heroku to run Mailtrap for this tutorial because of the easy implementation of the Mailtrap service. However, keep in mind this will be for a development environment even thou we are using Heroku.
 
 ![Mailtrap](https://s3.amazonaws.com/github-mtdavis/mailtrap-home.jpg)
 
