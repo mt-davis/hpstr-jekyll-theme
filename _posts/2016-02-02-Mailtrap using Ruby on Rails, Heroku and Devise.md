@@ -6,6 +6,9 @@ tags: [Ruby on Rails, Mailtrap, Heroku, Devise]
 layout: post   
 date: 2016-02-02 13:00:00
 image:
+  feature: coding.jpg
+  credit: Unknown
+  creditlink: http://wallpaperswide.com/programming-wallpapers.html
   background: witewall_3.png
 ---
 
