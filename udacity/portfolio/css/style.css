@@ -1,0 +1,65 @@
+
+/*Catch All max-width on all listed elements */
+img, embed, object, video { 
+    max-width: 100%;
+}
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.title-logo {
+    height: auto; 
+    width: auto; 
+    max-width: 80px; 
+    max-height: 80px;
+}
+
+@media only screen and (max-width: 300px) {
+    
+}
+
+body{
+
+    font-family: 'Titillium Web', sans-serif;
+    color: #1475BB;
+    font-weight: 600;
+    background-image:  url("../images/white_leather.png");
+    overflow-x: hidden; /*Hide Bottpm scroll bar */
+}
+
+
+.text-muted {
+    color: #BCBBBB;
+}
+
+.text-thin {
+    font-weight: 200;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.title-super{
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+hr {
+    border: 1px solid #000; /*Set the color and thinkness of hr tag */
+}
+
+
+/*Sape for social media icons*/
+.social-media {
+    letter-spacing: 10px;
+}
+
+/*footer*/
+

@@ -3,7 +3,8 @@ published: true
 title: Mailtrap using Ruby on Rails, Heroku and Devise.
 description: "Create a fake SMTP server for pre-production testing of an applications email functionality without the risk of spamming actually users or customers"
 tags: [Ruby on Rails, Mailtrap, Heroku, Devise]
-layout: post   
+layout: post
+author: John Smith
 date: 2016-02-02 13:00:00
 image:
   feature: coding.jpg
