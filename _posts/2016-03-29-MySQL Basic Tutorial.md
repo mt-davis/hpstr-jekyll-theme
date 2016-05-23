@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: MySQL Basic Tutorial
 description: MySQL Basic Tutorial
 tags: [MySQL, Ubuntu]
