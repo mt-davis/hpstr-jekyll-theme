@@ -23,6 +23,20 @@ img, embed, object, video {
     
 }
 
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+.imageheader { 
+   position: absolute; 
+   top: 200px; 
+   left: 80px; 
+   width: 100%;
+   font-size: 40px;
+   animation-delay: 1s;
+}
+
 body{
 
     font-family: 'Titillium Web', sans-serif;
